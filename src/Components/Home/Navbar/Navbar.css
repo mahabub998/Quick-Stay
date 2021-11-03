@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.navbar-bg {
+    background-color: #a00500;
+    color: #fff;
+}
+
+.nav-logo {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.nav-logo img {
+    width: 70px;
+    height: 70px;
+}
+
+.nav-logo span {
+    margin: 10px 0 0 5px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+}
+.nav-link{
+    color: #fff !important;
+    font-family: poppins;
+}
+
+/* <div className="nav-logo d-flex">
+<img src={Logo} alt="" />
+<span>QuickStay</span>
+</div> */

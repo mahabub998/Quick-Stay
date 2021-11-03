@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Chandigarh",
+        "image": "https://i.ibb.co/X40VQCV/map.png"
+    },
+    {
+        "id": "2",
+        "name": "Mohali",
+        "image": "https://i.ibb.co/X40VQCV/map.png"
+    },
+    {
+        "id": "3",
+        "name": "Panchkula",
+        "image": "https://i.ibb.co/X40VQCV/map.png"
+    },
+    {
+        "id": "4",
+        "name": "Zirakpur",
+        "image": "https://i.ibb.co/X40VQCV/map.png"
+    },
+    {
+        "id": "5",
+        "name": "Zirakpur",
+        "image": "https://i.ibb.co/X40VQCV/map.png"
+    },
+    {
+        "id": "6",
+        "name": "Zirakpur",
+        "image": "https://i.ibb.co/X40VQCV/map.png"
+    },
+    {
+        "id": "7",
+        "name": "Zirakpur",
+        "image": "https://i.ibb.co/X40VQCV/map.png"
+    }
+]

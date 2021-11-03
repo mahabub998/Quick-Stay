@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "No Brokerage",
+        "Image": "https://i.ibb.co/X71w3Dr/money-bag.png",
+        "description": "Say bye bye to heavy brokerage",
+        "category": "first"
+    },
+    {
+        "id": "2",
+        "title": "No search hassle",
+        "Image": "https://i.ibb.co/VvLHtt9/Group-8.png",
+        "description": "No need to wander around in search of a PG",
+        "category": "first"
+    },
+    {
+        "id": "3",
+        "title": "fully furnished",
+        "Image": "https://i.ibb.co/Pj3kGDv/sofa.png",
+        "description": "Get cozy with already in installed furniture",
+        "category": "first"
+    }
+]
